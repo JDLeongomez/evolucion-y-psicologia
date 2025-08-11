@@ -1,0 +1,67 @@
+---
+title: "Más allá de la dicotomía:"
+subtitle: "evolución, sociedad y el estudio de la psicología"
+author: 
+  name: Juan David Leongómez
+  affiliation: "<img src='img/logos.svg' height='300px'/>"
+  email: jleongomez@unbosque.edu.co
+  orcid: 0000-0002-0092-6298
+title-slide-attributes:
+  data-background-image: img/ptb2.png
+  data-background-size: auto
+  data-background-opacity: "0.3"
+format:
+  revealjs:
+    logo: img/Logo_UEB.svg
+    footer: "Juan David Leongómez <span style='font-size: 70%;'>PhD, MSc</span>"
+    theme: simple
+    center: true
+    slide-number: true
+    transition: fade
+    background-transition: fade
+    self-contained: false
+toc: false
+---
+
+## 1. Introducción (2 min)
+- Breve presentación personal (1 frase sobre tu formación e intereses).
+- Enganche inicial:  
+  > “¿Nuestros comportamientos son producto de los genes o de la cultura?  
+  > La ciencia demuestra que esta pregunta está mal planteada.”
+- Objetivo: mostrar cómo la psicología evolutiva no compite con perspectivas sociales o humanísticas, sino que las complementa.
+
+---
+
+## 2. El falso dilema *nature–nurture* (3 min)
+- Origen histórico de la dicotomía (breve mención a debates del siglo XX).
+- Por qué es falsa:  
+  - Analogía: “Como preguntar si el área de un rectángulo depende más de su base o de su altura.”
+  - Ejemplos de interacciones gen–ambiente: plasticidad fenotípica, epigenética, aprendizaje social.
+
+---
+
+## 3. Perspectiva evolutiva en psicología (4 min)
+- Qué es y qué no es la psicología evolutiva.
+- Ejemplos donde aporta comprensión real:
+  - Conductas parentales y de apego.
+  - Percepción de rostros y señales sociales.
+  - Lenguaje y musicalidad.
+- Un marco explicativo que se enriquece con antropología, sociología e historia.
+
+---
+
+## 4. Construyendo puentes con perspectivas sociales y humanísticas (4 min)
+- Casos donde la integración ha sido clave:
+  - Estudios interculturales que revelan variabilidad y universalidad.
+  - Impacto del contexto histórico y cultural en la expresión de tendencias evolutivas.
+- Comprender la evolución no es justificar desigualdades ni determinismos:  
+  **es entender mejor para intervenir mejor**.
+
+---
+
+## 5. Cierre y mensaje final (2 min)
+- Idea central: naturaleza y cultura son inseparables en la mente humana.
+- Frase final:  
+  > “No somos sólo producto de la naturaleza, ni sólo de la cultura:  
+  > somos el resultado de su interacción constante.”
+- Invitación al diálogo interdisciplinar.
