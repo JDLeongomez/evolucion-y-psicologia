@@ -23,45 +23,66 @@ format:
 toc: false
 ---
 
-## 1. Introducción (2 min)
-- Breve presentación personal (1 frase sobre tu formación e intereses).
-- Enganche inicial:  
-  > “¿Nuestros comportamientos son producto de los genes o de la cultura?  
-  > La ciencia demuestra que esta pregunta está mal planteada.”
-- Objetivo: mostrar cómo la psicología evolutiva no compite con perspectivas sociales o humanísticas, sino que las complementa.
+## Las perspectivas evolutivas son **reduccionistas** {auto-animate="true"}
 
----
+-   Determinismo
+-   Desconocimiento de lo social
+-   Combustible para machismo, racismo (cultura *incel*, manósfera)
+-   Desconocimiento de las dinámicas sociales
+    -   E.g. sexo vs género
+ 
+-----------------------------------------------------------------------
+
+
+## Las perspectivas evolutivas son **reduccionistas** {auto-animate="true"}
+
+-   E.g. sexo vs género
+
+![](img/modelo.jpg)
+
+------------------------------------------------------------------------
+
+-   Enganche inicial:\
+    \> “¿Nuestros comportamientos son producto de los genes o de la cultura?\
+    \> La ciencia demuestra que esta pregunta está mal planteada.”
+-   Objetivo: mostrar cómo la psicología evolutiva no compite con perspectivas sociales o humanísticas, sino que las complementa.
+
+------------------------------------------------------------------------
 
 ## 2. El falso dilema *nature–nurture* (3 min)
-- Origen histórico de la dicotomía (breve mención a debates del siglo XX).
-- Por qué es falsa:  
-  - Analogía: “Como preguntar si el área de un rectángulo depende más de su base o de su altura.”
-  - Ejemplos de interacciones gen–ambiente: plasticidad fenotípica, epigenética, aprendizaje social.
 
----
+-   Origen histórico de la dicotomía (breve mención a debates del siglo XX).
+-   Por qué es falsa:
+    -   Analogía: “Como preguntar si el área de un rectángulo depende más de su base o de su altura.”
+    -   Ejemplos de interacciones gen–ambiente: plasticidad fenotípica, epigenética, aprendizaje social.
+
+------------------------------------------------------------------------
 
 ## 3. Perspectiva evolutiva en psicología (4 min)
-- Qué es y qué no es la psicología evolutiva.
-- Ejemplos donde aporta comprensión real:
-  - Conductas parentales y de apego.
-  - Percepción de rostros y señales sociales.
-  - Lenguaje y musicalidad.
-- Un marco explicativo que se enriquece con antropología, sociología e historia.
 
----
+-   Qué es y qué no es la psicología evolutiva.
+-   Ejemplos donde aporta comprensión real:
+    -   Conductas parentales y de apego.
+    -   Percepción de rostros y señales sociales.
+    -   Lenguaje y musicalidad.
+-   Un marco explicativo que se enriquece con antropología, sociología e historia.
+
+------------------------------------------------------------------------
 
 ## 4. Construyendo puentes con perspectivas sociales y humanísticas (4 min)
-- Casos donde la integración ha sido clave:
-  - Estudios interculturales que revelan variabilidad y universalidad.
-  - Impacto del contexto histórico y cultural en la expresión de tendencias evolutivas.
-- Comprender la evolución no es justificar desigualdades ni determinismos:  
-  **es entender mejor para intervenir mejor**.
 
----
+-   Casos donde la integración ha sido clave:
+    -   Estudios interculturales que revelan variabilidad y universalidad.
+    -   Impacto del contexto histórico y cultural en la expresión de tendencias evolutivas.
+-   Comprender la evolución no es justificar desigualdades ni determinismos:\
+    **es entender mejor para intervenir mejor**.
+
+------------------------------------------------------------------------
 
 ## 5. Cierre y mensaje final (2 min)
-- Idea central: naturaleza y cultura son inseparables en la mente humana.
-- Frase final:  
-  > “No somos sólo producto de la naturaleza, ni sólo de la cultura:  
-  > somos el resultado de su interacción constante.”
-- Invitación al diálogo interdisciplinar.
+
+-   Idea central: naturaleza y cultura son inseparables en la mente humana.
+-   Frase final:\
+    \> “No somos sólo producto de la naturaleza, ni sólo de la cultura:\
+    \> somos el resultado de su interacción constante.”
+-   Invitación al diálogo interdisciplinar.
