@@ -1,15 +1,20 @@
 ---
-title: "Más allá de la dicotomía:"
-subtitle: "evolución, sociedad y el estudio de la psicología"
+title: "Evolución y Psicología:"
+subtitle: "la necesidad de una mirada integral del ser humano"
+
 author: 
-  name: Juan David Leongómez
-  affiliation: "<img src='img/logos.svg' height='300px'/>"
-  email: jleongomez@unbosque.edu.co
-  orcid: 0000-0002-0092-6298
+  - name: "[Juan David Leongómez]{style='font-size: 50%;'}"
+    orcid: 0000-0002-0092-6298
+  - name: "[Oscar R. Sánchez]{style='font-size: 50%;'}"
+    orcid: 0000-0003-1122-9815
+  - name: "[Andrés Felipe Reyes]{style='font-size: 50%;'}"
+  - name: "[Diego Otálora-Morales]{style='font-size: 50%;'}"
+
 title-slide-attributes:
-  data-background-image: img/ptb2.png
+  data-background-image: img/fondo.png
   data-background-size: auto
-  data-background-opacity: "0.3"
+  data-background-opacity: "0.6"
+
 format:
   revealjs:
     logo: img/Logo_UEB.svg
@@ -22,6 +27,124 @@ format:
     self-contained: false
 toc: false
 ---
+
+```{r}
+# Paquetes
+library(tidyverse)
+library(gt)
+
+# Datos
+df <- tribble(
+  ~Nombre,                   ~Título,                                                                              ~Foto,
+  "Juan David Leongómez",    "Más allá de la dicotomía: evolución, sociedad y el estudio de la psicología",       "img/JD.jpg",
+  "Oscar R. Sánchez",        "Desajuste evolutivo",                                                                "img/OS.jpeg",
+  "Andrés Felipe Reyes",         "Diferencias entre hombres y mujeres en la expresión de las emociones a través del lenguaje",                                                                        "img/AR.jpeg",
+  "Diego Otálora-Morales",   "Respuestas emocionales y trastornos psicológicos: una mirada evolutiva con implicaciones en la Psicología Clínica.",  
+                                                                                                                   "img/DO.png"
+)
+
+# Tabla gt
+tab_simposio <-
+  df |>
+  select(Foto, Nombre, Título) |> 
+  gt() |>
+  # Convertir la columna 'Foto' en imagen local
+  text_transform(
+    locations = cells_body(columns = Foto),
+    fn = function(x) {
+      lapply(x, function(path) {
+        if (!file.exists(path)) {
+          warning(sprintf("No se encontró la imagen: %s", path))
+        }
+        local_image(filename = path, height = 100)
+      })
+    }
+  ) |>
+  # Sin encabezados
+  tab_options(
+    column_labels.hidden = TRUE,
+    table.font.names = c("Inter", "Roboto", "Helvetica", "Arial", "sans-serif"),
+    data_row.padding = px(6),
+    table.width = pct(80)
+  ) |>
+  # Anchos y alineación
+  cols_width(
+    Foto   ~ px(50),
+    Nombre ~ px(150),
+    Título ~ px(700)
+  ) |>
+  cols_align(
+    columns = c(Nombre, Título),
+    align = "left"
+  ) |>
+  # Estética compacta
+  opt_row_striping() |>
+  # Aumentar tamaño de letra en toda la tabla
+  tab_style(
+    style = cell_text(size = px(18)),
+    locations = cells_body()
+  ) |>
+  # Títulos en negrilla
+  tab_style(
+    style = cell_text(weight = "bold"),
+    locations = cells_body(columns = Título)
+  )
+
+# Renderizar
+tab_simposio
+```
+
+---
+
+## Más allá de la dicotomía: evolución, sociedad y el estudio de la psicología {background-image="img/ptb.png" background-size="cover" background-opacity="0.5"}
+
+:::{.columns}
+::: {.column width="68%"}
+<div style="text-align:center; margin-top:0.5rem;">
+  <p style="font-size:1.05rem; margin-top:0.2rem; margin-bottom:0.9rem;">
+    <em>La dicotomía <strong>nature–nurture</strong> es un falso dilema: mente y conducta emergen de su interacción.</em>
+  </p>
+
+  <p style="margin:0;">
+    <strong>Juan David Leongómez</strong>
+  </p>
+
+  <p style="margin:0.2rem 0 0.8rem 0;">
+    Universidad El Bosque
+  </p>
+
+  <img src="img/logos.svg" width="30%" style="display:block; margin:0 auto 0.6rem auto;">
+
+  <p style="font-size:0.95rem; opacity:0.9; margin-top:0.2rem;">
+    Simposio <em>Evolución y Psicología: la necesidad de una mirada integral del ser humano</em><br>
+    Congreso Colombiano de Psicología · 15 de agosto de 2025
+  </p>
+</div>
+:::
+
+::: {.column width="32%"}
+<div style="text-align:center;">
+  <!-- Reemplaza por tu QR -->
+  ![](img/qr_ponencia.png){width="75%" fig-align="center"}
+  <div style="font-size:0.9rem; margin-top:0.3rem; opacity:0.9;">
+    Slides y materiales: <br>
+    <code>jdleongomez.info/es/talk/...</code>
+  </div>
+</div>
+:::
+:::
+
+---
+
+## Más allá de la dicotomía: evolución, sociedad y el estudio de la psicología {background-image="img/ptb.png" background-size="cover" background-opacity="0.5"}
+
+<div style="text-align: center;">
+  <img src="img/logos.svg" width="30%">
+
+</div>
+
+
+
 
 ## Las perspectivas evolutivas son **reduccionistas** {auto-animate="true"}
 
