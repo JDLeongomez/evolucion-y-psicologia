@@ -211,6 +211,29 @@ Masculinidad:
 
 ---
 
+## Las perspectivas evolutivas son [**reduccionistas**]{style="color:red;"} {auto-animate="true" visibility="uncounted"}
+
+  - Machismo, misoginia (cultura *incel*, manósfera)
+
+::::{.columns}
+:::{.column width="50%"}
+![](img/BG.png){width="100%" style="text-align: center;"}
+:::
+
+:::{.column width="50%"}
+> [**Cómo los *incels* distorsionaron mi investigación** <br> La “manosfera” afirma tener legitimidad científica para su peligrosa ideología. Mi campo no ha hecho lo suficiente para defender nuestro trabajo de su uso indebido.]{style="font-size: 50%;"}
+
+[Conroy-Beam, [Boston Globe, 2024](https://www.bostonglobe.com/2024/05/16/opinion/evolutionary-psychology-incel-manosphere/)]{style="font-size: 50%;"}
+:::
+::::
+
+
+:::{.notes}
+La psicología evolutiva ha sido apropiada indebidamente por la manosfera, especialmente por comunidades incel, que distorsionan selectivamente sus hallazgos para dar una falsa legitimidad científica a ideologías misóginas. También señala que algunas figuras provocadoras del campo, amplificadas por pódcast y medios, se convierten en la cara visible de la disciplina, facilitando que la manosfera presente un supuesto consenso que respalda su visión del mundo.
+:::
+
+---
+
 ## Las perspectivas evolutivas son [**reduccionistas**]{style="color:red;"} {auto-animate="true"}
 
 -   Determinismo biológico
@@ -310,6 +333,8 @@ Rebeca Sear
 ::::{.columns}
 :::{.column width="50%"}
   - Racismo
+  
+Diversidad humana
 :::
 
 :::{.column width="50%"}
@@ -385,7 +410,6 @@ E.g. sexo vs género
 [Sexo y género: constructos multidimensionales que integran factores biológicos y sociales: [Cell, 2024](https://www.cell.com/cell/issue?pii=S0092-8674(23)X0007-5)]{style="font-size: 50%;"}
 :::
 ::::
-
 
 ---
 
@@ -533,13 +557,15 @@ Casos donde la integración ha sido clave:
 -   Impacto del contexto histórico y cultural en la expresión de tendencias evolutivas.
 :::
 
-:::{.fragment .fade-in}
-Comprender la evolución no es justificar desigualdades ni determinismos
-:::
+---
+
+## Perspectivas evolutivas en psicología  {auto-animate="true" visibility="uncounted" .center}
+
+> Comprender la evolución no es justificar desigualdades ni determinismos
 
 ---
 
-## ¡Gracias por escuchar! {auto-animate="true"}
+## ¡Gracias! {auto-animate="true"}
 
 ::::: columns
 ::: {.column width="50%"}
