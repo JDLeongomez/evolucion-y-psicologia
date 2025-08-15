@@ -96,20 +96,20 @@ tab_simposio
 
 ---
 
-## Más allá de la dicotomía: evolución, sociedad y el estudio de la psicología {background-image="img/ptb.png" background-size="cover" background-opacity="0.5"}
+## Más allá de la dicotomía: evolución, sociedad y el estudio de la psicología {background-image="img/ptb.png" background-size="cover" background-opacity="0.4" auto-animate="true"}
 
 :::{.columns}
-::: {.column width="68%"}
+::: {.column width="60%"}
 <div style="text-align:center; margin-top:0.5rem;">
-  <p style="font-size:1.05rem; margin-top:0.2rem; margin-bottom:0.9rem;">
+  <p style="font-size:1.15rem; margin-top:0.2rem; margin-bottom:0.9rem;">
     <em>La dicotomía <strong>nature–nurture</strong> es un falso dilema: mente y conducta emergen de su interacción.</em>
   </p>
 
-  <p style="margin:0;">
+  <p style="margin:0; font-size:1.05rem;">
     <strong>Juan David Leongómez</strong>
   </p>
 
-  <p style="margin:0.2rem 0 0.8rem 0;">
+  <p style="margin:0.2rem 0 0.8rem 0; font-size:1.05rem;">
     Universidad El Bosque
   </p>
 
@@ -122,40 +122,35 @@ tab_simposio
 </div>
 :::
 
-::: {.column width="32%"}
+::: {.column width="40%"}
 <div style="text-align:center;">
-  <!-- Reemplaza por tu QR -->
-  ![](img/qr_ponencia.png){width="75%" fig-align="center"}
-  <div style="font-size:0.9rem; margin-top:0.3rem; opacity:0.9;">
-    Slides y materiales: <br>
-    <code>jdleongomez.info/es/talk/...</code>
-  </div>
+  ![](img/gh_qr.svg){width="80%" fig-align="center"}
+  <div style="font-size:0.95rem; margin-top:0.3rem; opacity:0.9; text-align:center;">
+  <strong>Ver presentación:</strong><br>
+  jdleongomez.github.io/evolucion-y-psicologia
+</div>
 </div>
 :::
 :::
+
 
 ---
 
-## Más allá de la dicotomía: evolución, sociedad y el estudio de la psicología {background-image="img/ptb.png" background-size="cover" background-opacity="0.5"}
+## Más allá de la dicotomía: evolución, sociedad y el estudio de la psicología {auto-animate="true"}
 
-<div style="text-align: center;">
-  <img src="img/logos.svg" width="30%">
+---
 
-</div>
+## Las perspectivas evolutivas son [**reduccionistas**]{style="color:#eb938a;"} {auto-animate="true" .incremental}
 
-
-
-
-## Las perspectivas evolutivas son **reduccionistas** {auto-animate="true"}
-
+::: {.incremental}
 -   Determinismo
 -   Desconocimiento de lo social
 -   Combustible para machismo, racismo (cultura *incel*, manósfera)
 -   Desconocimiento de las dinámicas sociales
     -   E.g. sexo vs género
- 
------------------------------------------------------------------------
+:::
 
+---
 
 ## Las perspectivas evolutivas son **reduccionistas** {auto-animate="true"}
 

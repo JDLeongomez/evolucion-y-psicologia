@@ -9,17 +9,17 @@ La charla, a cargo de **Juan David Leongómez**, aborda cómo las perspectivas e
 
 ---
 
+## 🌐 Ver la presentación en línea
+La versión publicada está disponible en GitHub Pages:
+
+🔗 **[Ver presentación](https://jdleongomez.github.io/evolucion-y-psicologia/)**
+
+---
+
 ## 📂 Contenido
 - `slides.qmd` — Fuente en Quarto Reveal.js de la presentación.
 - `img/` — Imágenes y recursos gráficos utilizados.
 - `index.html` — Versión renderizada en HTML para GitHub Pages.
-
----
-
-## 🌐 Ver la presentación en línea
-La versión publicada está disponible en GitHub Pages:
-
-🔗 **[Ver presentación](https://jdleongomez.github.io/slides_evopsic/)**
 
 ---
 
