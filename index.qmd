@@ -136,19 +136,29 @@ tab_simposio
 
 ---
 
-## Más allá de la dicotomía: evolución, sociedad y el estudio de la psicología {auto-animate="true"}
+## Las perspectivas evolutivas son [**reduccionistas**]{style="color:#eb938a;"} {auto-animate="true"}
 
 ---
 
-## Las perspectivas evolutivas son [**reduccionistas**]{style="color:#eb938a;"} {auto-animate="true" .incremental}
+## Las perspectivas evolutivas son [**reduccionistas**]{style="color:#eb938a;"} {auto-animate="true"}
+
+
+-   Determinismo
+
 
 ::: {.incremental}
--   Determinismo
 -   Desconocimiento de lo social
 -   Combustible para machismo, racismo (cultura *incel*, manósfera)
 -   Desconocimiento de las dinámicas sociales
     -   E.g. sexo vs género
 :::
+
+---
+
+## Las perspectivas evolutivas son [**reduccionistas**]{style="color:#eb938a;"} {auto-animate="true"}
+
+- Énfasis en masculinidad
+- Diferencias entre sexos
 
 ---
 
