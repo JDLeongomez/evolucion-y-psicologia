@@ -162,6 +162,63 @@ tab_simposio
 
 ---
 
+## Evolucion {auto-animate="true"}
+
+:::{.columns}
+::: {.column width="40%"}
+### Biologic[ista]{style="color:#eb938a;"}
+:::
+
+::: {.column width="60%"}
+![](img/ps1.svg){class="img-tall" data-id="psimg"}
+:::
+:::
+
+---
+
+## Evolucion {auto-animate="true"}
+
+:::{.columns}
+::: {.column width="40%"}
+### Biologic[ista]{style="color:#eb938a;"}
+:::
+
+::: {.column width="60%"}
+![](img/ps2.svg){class="img-tall" data-id="psimg"}
+:::
+:::
+
+---
+
+## Evolucion {auto-animate="true"}
+
+:::{.columns}
+::: {.column width="40%"}
+### Biologic[ista]{style="color:#eb938a;"}
+:::
+
+::: {.column width="60%"}
+![](img/ps3.svg){class="img-tall" data-id="psimg"}
+:::
+:::
+
+---
+
+## Evolucion {auto-animate="true"}
+
+:::{.columns}
+::: {.column width="40%"}
+### Biologic[ista]{style="color:#eb938a;"}
+:::
+
+::: {.column width="60%"}
+![](img/ps4.svg){class="img-tall" data-id="psimg"}
+:::
+:::
+
+---
+
+
 ## Las perspectivas evolutivas son **reduccionistas** {auto-animate="true"}
 
 -   E.g. sexo vs género
