@@ -136,29 +136,256 @@ tab_simposio
 
 ---
 
-## Las perspectivas evolutivas son [**reduccionistas**]{style="color:#eb938a;"} {auto-animate="true"}
+## Las perspectivas evolutivas son [**reduccionistas**]{style="color:red;"} {auto-animate="true"}
 
 ---
 
-## Las perspectivas evolutivas son [**reduccionistas**]{style="color:#eb938a;"} {auto-animate="true"}
+## Las perspectivas evolutivas son [**reduccionistas**]{style="color:red;"} {auto-animate="true"}
 
-
--   Determinismo
-
+-   Determinismo biológico
 
 ::: {.incremental}
--   Desconocimiento de lo social
--   Combustible para machismo, racismo (cultura *incel*, manósfera)
--   Desconocimiento de las dinámicas sociales
-    -   E.g. sexo vs género
+-   Combustible para ideas anticientíficas y discriminatorias:
+    - Machismo, misoginia (cultura *incel*, manósfera)
 :::
 
 ---
 
-## Las perspectivas evolutivas son [**reduccionistas**]{style="color:#eb938a;"} {auto-animate="true"}
+## Las perspectivas evolutivas son [**reduccionistas**]{style="color:red;"} {auto-animate="true" visibility="uncounted"}
 
-- Énfasis en masculinidad
-- Diferencias entre sexos
+  - Machismo, misoginia (cultura *incel*, manósfera)
+  
+::::{.columns}
+
+:::{.column width="50%"}
+::: {.fragment .fade-in}
+Énfasis en testosterona y masculinidad
+:::
+::: {.fragment .fade-in}
+**Simplificación** en la interpretación
+:::
+:::
+
+:::{.column width="50%"}
+::: {.fragment .fade-in .center}
+![](img/gigachad.jpg){width="50%" style="text-align: center;"}
+:::
+:::
+
+::::
+
+---
+
+## Las perspectivas evolutivas son [**reduccionistas**]{style="color:red;"} {auto-animate="true" visibility="uncounted"}
+
+  - Machismo, misoginia (cultura *incel*, manósfera)
+  
+::::{.columns}
+
+:::{.column width="50%"}
+
+Énfasis en testosterona y masculinidad
+
+**Simplificación** en la interpretación
+
+[E.g., [Archer, 2006](https://doi.org/10.1016/j.neubiorev.2004.12.007); [Dreher et al., 2016](https://doi.org/10.1073/pnas.1608085113); [Turanovic et al., 2017](https://doi.org/10.1016/j.avb.2017.01.008)]{style="font-size: 50%;"}
+
+:::
+
+:::{.column width="50%"}
+
+Masculinidad:
+
+::: {.fragment .center .incremental}
+
+- [Mejor sistema inmune]{style="font-size: 70%;"}
+- [Estátus social]{style="font-size: 70%;"}
+- [Mayor agresividad 🚩]{style="color:red;font-size: 70%;"}
+- [Más promiscuidad 🚩]{style="color:red;font-size: 70%;"}
+- [Menor inversión parental 🚩]{style="color:red;font-size: 70%;"}
+:::
+:::
+:::
+
+::::
+
+---
+
+## Las perspectivas evolutivas son [**reduccionistas**]{style="color:red;"} {auto-animate="true"}
+
+-   Determinismo biológico
+-   Combustible para ideas anticientíficas y discriminatorias:
+    - Machismo, misoginia (cultura *incel*, manósfera)
+    - Racismo
+    
+---
+
+## Las perspectivas evolutivas son [**reduccionistas**]{style="color:red;"} {auto-animate="true" visibility="uncounted"}
+
+::::{.columns}
+:::{.column width="50%"}
+  - Racismo
+
+::: {.fragment .fade-in}
+"*Intelligence*" research & Race "*science*"
+:::
+
+::: {.fragment .fade-in}
+**Pseudociencia** y culto al IQ
+
+[E.g., Lynn & Vanhanen, 2002; Lynn and Becker, 2019]{style="font-size: 50%;"}
+:::
+:::
+
+:::{.column width="50%"}
+::: {.fragment .fade-in .center}
+![](img/IQ_tab.png){class="img-tall"}
+:::
+:::
+::::
+
+
+---
+
+## Las perspectivas evolutivas son [**reduccionistas**]{style="color:red;"} {auto-animate="true" visibility="uncounted"}
+
+::::{.columns}
+:::{.column width="50%"}
+  - Racismo
+
+"*Intelligence*" research & Race "*science*"
+
+**Pseudociencia** y culto al IQ
+
+[E.g., Lynn & Vanhanen, 2002; Lynn and Becker, 2019]{style="font-size: 50%;"}
+:::
+
+:::{.column width="50%"}
+![](img/art_sear.png){class="img-tall"}
+
+[El resurgimiento de la eugenesia: [Sear, 2021](https://www.tandfonline.com/doi/10.1080/00324728.2021.2009013)]{style="font-size: 50%;"}
+:::
+::::
+
+---
+
+## Las perspectivas evolutivas son [**reduccionistas**]{style="color:red;"} {auto-animate="true" visibility="uncounted"}
+
+::::{.columns}
+:::{.column width="50%"}
+  - Racismo
+
+Rebeca Sear
+
+[Presidente [European Human Behaviour and Evolution Association](https://www.cambridge.org/core/membership/ehbea)]{style="font-size: 50%;"}
+
+:::
+
+:::{.column width="50%"}
+![](img/sear.png){class="img-tall"}
+
+[El resurgimiento de la eugenesia: [Sear, 2021](https://www.tandfonline.com/doi/10.1080/00324728.2021.2009013)]{style="font-size: 50%;"}
+:::
+::::
+
+---
+
+## Las perspectivas evolutivas son [**reduccionistas**]{style="color:red;"} {auto-animate="true" visibility="uncounted"}
+
+::::{.columns}
+:::{.column width="50%"}
+  - Racismo
+:::
+
+:::{.column width="50%"}
+[Algún racista de Twitter:]{style="font-size: 50%;"}
+![](img/sp.png){class="img-tall"}
+:::
+::::
+
+---
+
+## Las perspectivas evolutivas son [**reduccionistas**]{style="color:red;"} {auto-animate="true" visibility="uncounted"}
+
+::::{.columns}
+:::{.column width="50%"}
+  - Racismo
+:::
+
+:::{.column width="50%"}
+![](img/hum_gen.png){class="img-tall"}
+:::
+::::
+
+---
+
+## Las perspectivas evolutivas son [**reduccionistas**]{style="color:red;"} {auto-animate="true"}
+
+-   Determinismo biológico
+-   Combustible para ideas anticientíficas y discriminatorias:
+    - Machismo, misoginia (cultura *incel*, manósfera)
+    - Racismo
+    - Familia "tradicional"
+    
+---
+
+## Las perspectivas evolutivas son [**reduccionistas**]{style="color:red;"} {auto-animate="true" visibility="uncounted"}
+
+::::{.columns}
+:::{.column width="50%"}
+  - Familia "tradicional"
+
+Rebeca Sear
+
+[Presidente [European Human Behaviour and Evolution Association](https://www.cambridge.org/core/membership/ehbea)]{style="font-size: 50%;"}
+
+:::
+
+:::{.column width="50%"}
+![](img/trad_fam.png){class="img-tall"}
+
+[El modelo de hombre proveedor no es la familia humana ‘tradicional’ y su mito puede afectar la salud: [ Sear, 2021](https://royalsocietypublishing.org/doi/10.1098/rstb.2020.0020)]{style="font-size: 50%;"}
+:::
+::::
+
+---
+
+## Las perspectivas evolutivas son [**reduccionistas**]{style="color:red;"} {auto-animate="true"}
+
+-   Determinismo biológico
+-   Combustible para ideas anticientíficas y discriminatorias:
+    - Machismo, misoginia (cultura *incel*, manósfera)
+    - Racismo
+    - Familia "tradicional"
+-   Desconocimiento de las dinámicas sociales
+
+---
+
+## Las perspectivas evolutivas son [**reduccionistas**]{style="color:red;"} {auto-animate="true" visibility="uncounted"}
+
+-   Desconocimiento de las dinámicas sociales
+
+E.g. sexo vs género
+
+---
+
+## Las perspectivas evolutivas son [**reduccionistas**]{style="color:red;"} {auto-animate="true" visibility="uncounted"}
+
+::::{.columns}
+:::{.column width="50%"}
+E.g. sexo vs género
+
+Énfasis en diferencias entre sexos
+
+:::
+
+:::{.column width="50%"}
+![](img/sex.jpeg){class="img-tall"}
+
+[Sexo y género: constructos multidimensionales que integran factores biológicos y sociales: [Cell, 2024](https://www.cell.com/cell/issue?pii=S0092-8674(23)X0007-5)]{style="font-size: 50%;"}
+:::
+::::
+
 
 ---
 
@@ -166,7 +393,7 @@ tab_simposio
 
 :::{.columns}
 ::: {.column width="40%"}
-### Biologic[ista]{style="color:#eb938a;"}
+### ¿Biologic[ista]{style="color:red;"}?
 :::
 
 ::: {.column width="60%"}
@@ -176,11 +403,11 @@ tab_simposio
 
 ---
 
-## Evolucion {auto-animate="true"}
+## Evolucion {auto-animate="true" visibility="uncounted" .center}
 
 :::{.columns}
 ::: {.column width="40%"}
-### Biologic[ista]{style="color:#eb938a;"}
+### ¿Biologic[ista]{style="color:red;"}?
 :::
 
 ::: {.column width="60%"}
@@ -190,11 +417,11 @@ tab_simposio
 
 ---
 
-## Evolucion {auto-animate="true"}
+## Evolucion {auto-animate="true" visibility="uncounted" .center}
 
 :::{.columns}
 ::: {.column width="40%"}
-### Biologic[ista]{style="color:#eb938a;"}
+### ¿Biologic[ista]{style="color:red;"}?
 :::
 
 ::: {.column width="60%"}
@@ -204,11 +431,11 @@ tab_simposio
 
 ---
 
-## Evolucion {auto-animate="true"}
+## Evolucion {auto-animate="true" visibility="uncounted" .center}
 
 :::{.columns}
 ::: {.column width="40%"}
-### Biologic[ista]{style="color:#eb938a;"}
+### ¿Biologic[ista]{style="color:red;"}?
 :::
 
 ::: {.column width="60%"}
@@ -218,56 +445,112 @@ tab_simposio
 
 ---
 
+## [Psicología]{style="color:red;"}{auto-animate="true" visibility="uncounted" .center}
 
-## Las perspectivas evolutivas son **reduccionistas** {auto-animate="true"}
+:::{.columns}
+::: {.column width="70%"}
+### ¿Evolucion[ista]{style="color:red;"}?
 
--   E.g. sexo vs género
+:::{.incremental}
+- La evolución es inescapable
+  - La cultura es producto de la evolución
+- Vamos condenar las perspectivas evolutivas del comportamiento humano
+  - Datos al servicio de la ideología
+:::
+:::
 
-![](img/modelo.jpg)
+::: {.column width="30%"}
+![](img/ps4.svg){class="img-tall" data-id="psimg"}
+:::
+:::
 
-------------------------------------------------------------------------
+---
 
--   Enganche inicial:\
-    \> “¿Nuestros comportamientos son producto de los genes o de la cultura?\
-    \> La ciencia demuestra que esta pregunta está mal planteada.”
--   Objetivo: mostrar cómo la psicología evolutiva no compite con perspectivas sociales o humanísticas, sino que las complementa.
+## Más allá de la falsa dicotomía evolución–aprendizaje:  {auto-animate="true" .center}
 
-------------------------------------------------------------------------
+![](img/fallacy2.png)
 
-## 2. El falso dilema *nature–nurture* (3 min)
+[[Al-Shawaf, 2025](https://psycnet.apa.org/doiLanding?doi=10.1037%2Famp0001537)]{style="font-size: 50%;"}
 
--   Origen histórico de la dicotomía (breve mención a debates del siglo XX).
--   Por qué es falsa:
-    -   Analogía: “Como preguntar si el área de un rectángulo depende más de su base o de su altura.”
-    -   Ejemplos de interacciones gen–ambiente: plasticidad fenotípica, epigenética, aprendizaje social.
+---
 
-------------------------------------------------------------------------
+## Más allá de la falsa dicotomía evolución–aprendizaje:  {auto-animate="true" visibility="uncounted" .center}
 
-## 3. Perspectiva evolutiva en psicología (4 min)
+![](img/EHB.png)
 
--   Qué es y qué no es la psicología evolutiva.
--   Ejemplos donde aporta comprensión real:
-    -   Conductas parentales y de apego.
-    -   Percepción de rostros y señales sociales.
-    -   Lenguaje y musicalidad.
--   Un marco explicativo que se enriquece con antropología, sociología e historia.
+[[Vasquez-Amézquita et al, 2025](https://psycnet.apa.org/doiLanding?doi=10.1037%2Famp0001537)]{style="font-size: 50%;"}
 
-------------------------------------------------------------------------
+---
 
-## 4. Construyendo puentes con perspectivas sociales y humanísticas (4 min)
+## Más allá de la falsa dicotomía evolución–aprendizaje:  {auto-animate="true" visibility="uncounted" .center}
 
--   Casos donde la integración ha sido clave:
-    -   Estudios interculturales que revelan variabilidad y universalidad.
-    -   Impacto del contexto histórico y cultural en la expresión de tendencias evolutivas.
--   Comprender la evolución no es justificar desigualdades ni determinismos:\
-    **es entender mejor para intervenir mejor**.
+::::{.columns}
+::: {.column width="50%"}
+![](img/EHB1.jpg)
+:::
 
-------------------------------------------------------------------------
+::: {.column width="50%"}
+![](img/EHB2.png)
+:::
+::::
 
-## 5. Cierre y mensaje final (2 min)
+[[Vasquez-Amézquita et al, 2025](https://psycnet.apa.org/doiLanding?doi=10.1037%2Famp0001537)]{style="font-size: 50%;"}
 
--   Idea central: naturaleza y cultura son inseparables en la mente humana.
--   Frase final:\
-    \> “No somos sólo producto de la naturaleza, ni sólo de la cultura:\
-    \> somos el resultado de su interacción constante.”
--   Invitación al diálogo interdisciplinar.
+---
+
+## Más allá de la falsa dicotomía evolución–aprendizaje:  {auto-animate="true" visibility="uncounted" .center}
+
+![](img/EHB2.png)
+
+
+[[Vasquez-Amézquita et al, 2025](https://psycnet.apa.org/doiLanding?doi=10.1037%2Famp0001537)]{style="font-size: 50%;"}
+
+---
+
+## Perspectivas evolutivas en psicología  {auto-animate="true" .center}
+
+
+Aportes a comprensión real:
+
+:::{.incremental}
+-   Conductas parentales y de apego.
+-   Percepción de rostros/voces/olores y señales sociales.
+-   Lenguaje y musicalidad.
+:::
+
+:::{.fragment .fade-in}
+Requiere un marco explicativo que se enriquece con antropología, sociología e historia.
+:::
+
+---
+
+## Perspectivas evolutivas en psicología  {auto-animate="true" visibility="uncounted" .center}
+
+Casos donde la integración ha sido clave:
+
+:::{.incremental}
+-   Estudios transculturales que revelan variabilidad y universalidad.
+-   Impacto del contexto histórico y cultural en la expresión de tendencias evolutivas.
+:::
+
+:::{.fragment .fade-in}
+Comprender la evolución no es justificar desigualdades ni determinismos
+:::
+
+---
+
+## ¡Gracias por escuchar! {auto-animate="true"}
+
+::::: columns
+::: {.column width="50%"}
+![](img/jdl_qr.svg){width="60%"}
+:::
+
+::: {.column width="50%"}
+<br>
+**Juan David Leongómez** [PhD, MSc]{style="font-size: 50%;"}<br> [[jleongomez\@unbosque.edu.co](mailto:jleongomez@unbosque.edu.co)]{style="font-size: 70%;"}
+:::
+:::::
+
+
+
